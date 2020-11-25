@@ -1,0 +1,12 @@
+label {
+  margin-top: 15px;
+}
+
+.error-container {
+  margin-bottom: 10px;
+}
+
+.error-container span {
+  color: red;
+  display: block;
+}
